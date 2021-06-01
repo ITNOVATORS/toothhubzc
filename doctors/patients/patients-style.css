@@ -1,0 +1,48 @@
+.tbl_list{
+    width: 97%;
+    background-color: white;
+    border-radius: 8px;
+    
+}
+
+.tbl_list td,th{
+    padding: 8px 8px 8px 15px;
+    border-bottom: 1px solid lightgrey;
+}
+
+.tbl_list th{
+    padding-top: 30px;
+}
+
+.action, .btn-action{
+    text-align: center;
+}
+
+.row{
+    margin-bottom: 20px;
+}
+
+.modal-header, .modal-footer{
+    background: #2C3B4B;
+    color: #efefef;
+}
+
+.modal-title button{
+    color: white;
+}
+
+.hr{
+    border: 2px solid #2C3B4B;
+}
+
+.modal-body{
+    font-size: 18px;
+}
+
+.top-patient{
+    background: white;
+}
+
+.info{
+    color: #2C3B4B;
+}

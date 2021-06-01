@@ -1,0 +1,99 @@
+*{
+  margin:0;
+  padding: 0;
+  font-family: 'Poppins';
+
+}
+
+.img-top{
+  height: 20px;
+}
+
+
+.sidenav {
+    height: 100%;
+    width: 280px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    border-right: 1px solid  #E2D5D5;
+    background-color: #ffff;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidenav i{
+    float: left;
+    margin-left: 25px;
+    margin-right: 40px;
+    font-size: 25px;
+}
+
+
+.sidenav h3{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: #4F6378;
+    margin-left:80px;
+}
+
+.sidenav img{
+  height: 25px;
+  position: absolute;
+  margin-left: 35px;
+  margin-top: 10px;
+  color: #4F6378;
+}
+
+.sidenav .nav {
+  float: left;
+  text-decoration: none;
+  font-size: 20px;
+  color:  #768A9E;
+  display: block;
+}
+
+.sidenav button{
+  margin-top: 5px;
+  padding: 10px;
+  border: none;
+  outline: none;
+  background: none;
+  width: 100%;
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
+
+.act{
+  font-weight: bold;
+  color: #4F6378;
+}
+
+button.active{
+  font-weight: bold;
+  color: #4F6378;
+  border-right: 5px solid #768A9E;
+  cursor:default;
+}
+
+.dropdown-container {
+  text-decoration: none;
+  display: none;
+  background: none;
+}
+
+.sidenav .nav:hover, .drop:hover{
+  font-weight: bold;
+}
+
+.show{
+  float: right;
+  margin-bottom: 20px;
+}
+
+.fa-user-circle{
+  color: lightgrey;
+  height: 50px;
+}

@@ -1,0 +1,32 @@
+.con{
+	border-style: none;
+	background-color: white;
+	box-shadow: 5px 4px 3px 4px lightgrey;
+	border-radius:5px;
+	padding: 0 30px;
+}
+
+.space{
+	margin-right: 100px;
+}
+
+.count{
+	padding-top: 15px;
+	padding-left: 20px;
+	font-size: 50px;
+}
+
+.desc{
+	padding-left: 20px;
+}
+
+
+.user{
+	color: lightgrey;
+	padding: 20px;
+  }
+
+  .t{
+	  font-size: 20px;
+  }
+

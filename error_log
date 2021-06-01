@@ -1,0 +1,128 @@
+[31-May-2021 19:38:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/o100splsbets/public_html/include/connection.php on line 8
+[31-May-2021 19:41:37 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/o100splsbets/public_html/include/connection.php on line 8
+[31-May-2021 19:45:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'itnovatorsweb'@'localhost' (using password: NO) in /home/o100splsbets/public_html/include/connection.php on line 8
+[31-May-2021 19:46:32 UTC] PHP Notice:  Undefined variable: row in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 19:46:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 19:46:32 UTC] PHP Notice:  Undefined variable: row in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 19:46:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 20:15:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPMailer\PHPMailer\PHPMailer::FromName() in /home/o100splsbets/public_html/ver_signup.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/o100splsbets/public_html/ver_signup.php on line 56
+[31-May-2021 20:16:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPMailer\PHPMailer\PHPMailer::FromName() in /home/o100splsbets/public_html/ver_signup.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/o100splsbets/public_html/ver_signup.php on line 56
+[31-May-2021 20:16:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPMailer\PHPMailer\PHPMailer::FromName() in /home/o100splsbets/public_html/ver_signup.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/o100splsbets/public_html/ver_signup.php on line 56
+[31-May-2021 20:20:27 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/o100splsbets/public_html/ver_signup.php on line 56
+[31-May-2021 20:20:49 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/o100splsbets/public_html/ver_signup.php on line 56
+[31-May-2021 20:21:29 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home/o100splsbets/public_html/include/PHPMailer.php:2135
+Stack trace:
+#0 /home/o100splsbets/public_html/include/PHPMailer.php(1959): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/o100splsbets/public_html/include/PHPMailer.php(1637): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 31 M...', '<h2>Hi Krizelle...')
+#2 /home/o100splsbets/public_html/include/PHPMailer.php(1470): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/o100splsbets/public_html/ver_signup.php(71): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/o100splsbets/public_html/include/PHPMailer.php on line 2135
+[31-May-2021 20:34:33 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/o100splsbets/public_html/ver_signup.php on line 64
+[31-May-2021 20:35:37 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/o100splsbets/public_html/ver_signup.php on line 64
+[31-May-2021 20:35:51 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/o100splsbets/public_html/ver_signup.php on line 64
+[31-May-2021 20:36:17 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/o100splsbets/public_html/ver_signup.php on line 61
+[31-May-2021 20:36:42 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/o100splsbets/public_html/ver_signup.php on line 60
+[31-May-2021 20:37:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPMailer\PHPMailer\PHPMailer::From() in /home/o100splsbets/public_html/ver_signup.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/o100splsbets/public_html/ver_signup.php on line 61
+[31-May-2021 20:37:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPMailer\PHPMailer\PHPMailer::From() in /home/o100splsbets/public_html/ver_signup.php:61
+Stack trace:
+#0 {main}
+  thrown in /home/o100splsbets/public_html/ver_signup.php on line 61
+[31-May-2021 20:38:09 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/o100splsbets/public_html/ver_signup.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/o100splsbets/public_html/ver_signup.php on line 11
+[31-May-2021 20:38:11 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/o100splsbets/public_html/ver_signup.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/o100splsbets/public_html/ver_signup.php on line 11
+[31-May-2021 20:38:14 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/o100splsbets/public_html/ver_signup.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/o100splsbets/public_html/ver_signup.php on line 11
+[31-May-2021 20:38:30 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/o100splsbets/public_html/ver_signup.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/o100splsbets/public_html/ver_signup.php on line 11
+[31-May-2021 20:38:42 UTC] PHP Warning:  require(include/class.PHPMailer.php): failed to open stream: No such file or directory in /home/o100splsbets/public_html/ver_signup.php on line 5
+[31-May-2021 20:38:42 UTC] PHP Fatal error:  require(): Failed opening required 'include/class.PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o100splsbets/public_html/ver_signup.php on line 5
+[31-May-2021 20:39:08 UTC] PHP Warning:  require(include/class.PHPMailer.php): failed to open stream: No such file or directory in /home/o100splsbets/public_html/ver_signup.php on line 5
+[31-May-2021 20:39:08 UTC] PHP Fatal error:  require(): Failed opening required 'include/class.PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o100splsbets/public_html/ver_signup.php on line 5
+[31-May-2021 20:40:12 UTC] PHP Warning:  require(include/class.PHPMailer.php): failed to open stream: No such file or directory in /home/o100splsbets/public_html/ver_signup.php on line 5
+[31-May-2021 20:40:12 UTC] PHP Fatal error:  require(): Failed opening required 'include/class.PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o100splsbets/public_html/ver_signup.php on line 5
+[31-May-2021 20:40:22 UTC] PHP Warning:  require(include/class.PHPMailer.php): failed to open stream: No such file or directory in /home/o100splsbets/public_html/ver_signup.php on line 5
+[31-May-2021 20:40:22 UTC] PHP Fatal error:  require(): Failed opening required 'include/class.PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o100splsbets/public_html/ver_signup.php on line 5
+[31-May-2021 20:40:32 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/o100splsbets/public_html/ver_signup.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/o100splsbets/public_html/ver_signup.php on line 11
+[31-May-2021 20:40:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PHPMailer\PHPMailer\PHPMailer::From() in /home/o100splsbets/public_html/ver_signup.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/o100splsbets/public_html/ver_signup.php on line 68
+[31-May-2021 20:47:43 UTC] PHP Warning:  require(include/class.PHPMailer.php): failed to open stream: No such file or directory in /home/o100splsbets/public_html/ver_signup.php on line 5
+[31-May-2021 20:47:43 UTC] PHP Fatal error:  require(): Failed opening required 'include/class.PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o100splsbets/public_html/ver_signup.php on line 5
+[31-May-2021 20:49:02 UTC] PHP Warning:  require(include/class.PHPMailer.php): failed to open stream: No such file or directory in /home/o100splsbets/public_html/ver_signup.php on line 5
+[31-May-2021 20:49:02 UTC] PHP Fatal error:  require(): Failed opening required 'include/class.PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o100splsbets/public_html/ver_signup.php on line 5
+[31-May-2021 20:49:22 UTC] PHP Warning:  require(include/class.PHPMailer.php): failed to open stream: No such file or directory in /home/o100splsbets/public_html/ver_signup.php on line 5
+[31-May-2021 20:49:22 UTC] PHP Fatal error:  require(): Failed opening required 'include/class.PHPMailer.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/o100splsbets/public_html/ver_signup.php on line 5
+[31-May-2021 20:49:34 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/o100splsbets/public_html/ver_signup.php on line 64
+[31-May-2021 20:49:48 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/o100splsbets/public_html/ver_signup.php on line 59
+[31-May-2021 20:50:13 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/o100splsbets/public_html/ver_signup.php on line 56
+[31-May-2021 20:52:02 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/o100splsbets/public_html/ver_signup.php on line 56
+[31-May-2021 20:55:39 UTC] PHP Notice:  Undefined variable: row in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 20:55:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 20:55:39 UTC] PHP Notice:  Undefined variable: row in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 20:55:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 20:58:20 UTC] PHP Notice:  Undefined variable: row in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 20:58:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 20:58:20 UTC] PHP Notice:  Undefined variable: row in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 20:58:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 20:58:27 UTC] PHP Notice:  Undefined variable: row in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 20:58:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 20:58:27 UTC] PHP Notice:  Undefined variable: row in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 20:58:27 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 21:13:30 UTC] PHP Notice:  Undefined variable: row in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 21:13:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 21:13:30 UTC] PHP Notice:  Undefined variable: row in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 21:13:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 21:51:35 UTC] PHP Notice:  Undefined variable: row in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 21:51:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 21:51:35 UTC] PHP Notice:  Undefined variable: row in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 21:51:35 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 21:51:46 UTC] PHP Notice:  Undefined variable: row in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 21:51:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 21:51:46 UTC] PHP Notice:  Undefined variable: row in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 21:51:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 21:52:04 UTC] PHP Notice:  Undefined variable: row in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 21:52:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 21:52:04 UTC] PHP Notice:  Undefined variable: row in /home/o100splsbets/public_html/ver_login.php on line 51
+[31-May-2021 21:52:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o100splsbets/public_html/ver_login.php on line 51
+[01-Jun-2021 02:59:32 UTC] PHP Notice:  Undefined variable: row in /home/o100splsbets/public_html/ver_login.php on line 51
+[01-Jun-2021 02:59:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o100splsbets/public_html/ver_login.php on line 51
+[01-Jun-2021 02:59:32 UTC] PHP Notice:  Undefined variable: row in /home/o100splsbets/public_html/ver_login.php on line 51
+[01-Jun-2021 02:59:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o100splsbets/public_html/ver_login.php on line 51
+[01-Jun-2021 03:04:10 UTC] PHP Notice:  Undefined index: email in /home/o100splsbets/public_html/ver_login.php on line 6
+[01-Jun-2021 03:04:10 UTC] PHP Notice:  Undefined index: password in /home/o100splsbets/public_html/ver_login.php on line 7
+[01-Jun-2021 03:04:10 UTC] PHP Notice:  Undefined variable: row in /home/o100splsbets/public_html/ver_login.php on line 51
+[01-Jun-2021 03:04:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o100splsbets/public_html/ver_login.php on line 51
+[01-Jun-2021 03:04:15 UTC] PHP Notice:  Undefined index: email in /home/o100splsbets/public_html/ver_login.php on line 6
+[01-Jun-2021 03:04:15 UTC] PHP Notice:  Undefined index: password in /home/o100splsbets/public_html/ver_login.php on line 7
+[01-Jun-2021 03:04:15 UTC] PHP Notice:  Undefined variable: row in /home/o100splsbets/public_html/ver_login.php on line 51
+[01-Jun-2021 03:04:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o100splsbets/public_html/ver_login.php on line 51
+[01-Jun-2021 03:07:25 UTC] PHP Notice:  Undefined variable: row in /home/o100splsbets/public_html/ver_login.php on line 51
+[01-Jun-2021 03:07:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o100splsbets/public_html/ver_login.php on line 51
+[01-Jun-2021 03:07:25 UTC] PHP Notice:  Undefined variable: row in /home/o100splsbets/public_html/ver_login.php on line 51
+[01-Jun-2021 03:07:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/o100splsbets/public_html/ver_login.php on line 51

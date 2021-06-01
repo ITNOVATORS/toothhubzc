@@ -1,0 +1,40 @@
+
+
+.top{
+    height: 70px;
+    font-size: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.btn-close{
+    color: white;
+}
+
+.bx-x{
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.top i{
+    font-size: 25px;
+    margin-right: 20px;
+}
+
+.form-control{
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.input-group-text{
+    border-top-right-radius: 18px;
+    border-bottom-right-radius: 18px;
+}
+
+.bg-brown{
+    background: rgb(111, 78, 55);
+}
+
+.modal.fade .modal-dialog, .modal.fade.in .modal-dialog {
+    transition: all 0.6s;
+}
+

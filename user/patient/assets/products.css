@@ -1,0 +1,12 @@
+button.i{
+    font-size: 30px;
+}
+
+.tbl-products{
+    margin-top: 50px;
+    width: 100%;
+}
+
+tbody, thead{
+    width: 100%;
+}

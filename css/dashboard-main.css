@@ -1,0 +1,42 @@
+
+.recent-box{
+	margin-top: 15px;
+	height: 300px;
+	width: 430px;
+	background-color: white;
+	border-style: none;
+	border-radius: 10px;
+	box-shadow: 5px 5px 8px grey;
+	margin-bottom: 50px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    font-family: 'Poppins';
+}	
+
+.recent-text{
+	font-size: 20px;
+	display: inline-block;
+}
+
+.left-box{
+	float: left;
+}
+
+.right-box{
+	float: right;
+}
+
+.bottom-table{
+	margin-top: 15px;
+	height: 300px;
+	width: 100%;
+	background-color: white;
+	border-style: none;
+	border-radius: 10px;
+	box-shadow: 5px 5px 8px grey;
+	margin-bottom: 50px;
+}
+

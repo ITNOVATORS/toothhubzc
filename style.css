@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    height: 10vh;
+    position: relative;
+    
+}
+
+.navbar-style{
+    background: #2C3B4B;
+    box-shadow:1px 1px 3px #efefef;
+
+}
+
+.logo{
+    height: 50px;
+    padding: 3px 10px;
+}
+
+.nav-text {
+    padding-top: 3px;
+    color: white !important;
+
+}
+
+.nav-text:hover{
+    text-decoration: none;
+    cursor: default;
+}
+
+.fa-bars{
+    color: #ffff ;
+}
+
+.title-text{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.con{
+    height: 700px;
+}
+
+.nav-option{
+    color: white;
+}
+
+
+
+.left{
+    background: grey;
+}
+
+.right{
+    background: lightgrey;
+}
+
+#about-con, #contact-us-con{
+    background:  #2C3B4B; 
+    color: #ffff !important;
+}
+
+#about.title-text, #contact-us.title-text{
+    color: white !important;
+}
+
+.con{
+    position: relative;
+    height: 600px;
+}
+
+
+
+

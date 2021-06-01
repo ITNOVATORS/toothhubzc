@@ -1,0 +1,19 @@
+.bg-blue{
+    background: #2C3B4B;
+}
+
+.text-blue{
+    color:#2C3B4B;
+}
+
+.nav-link{
+    color: white!important;
+}
+
+.nav-item{
+    font-size: 17px;
+    text-transform: uppercase;
+    color: powderblue;
+    margin-right: 20px;
+}
+

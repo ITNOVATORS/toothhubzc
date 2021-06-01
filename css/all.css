@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    font-family: 'Poppins';
+}
+
+.bg-blue{
+    background-image: linear-gradient(to right,#2C3B4B, #3c7397);
+}
+
+.text-blue{
+    color: #4F6378;
+}

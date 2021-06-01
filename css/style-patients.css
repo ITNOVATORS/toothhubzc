@@ -1,0 +1,16 @@
+.new-patient-btn{
+	width: 200px;
+	padding: 10px;
+	box-shadow: 4px 4px 1px lightgrey;
+	border-style: none;
+	background-color: #94A8BD;
+	border-radius: 3px;
+	font-size: 18px;
+	color: white;
+	cursor: pointer;
+}
+
+.new-patient-btn i{
+	margin-right: 15px;
+
+}
